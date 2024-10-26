@@ -2,5 +2,5 @@
 
 A template with Next.js 13 app dir, Contentlayer, Tailwind CSS and dark mode.
 
-https://bemyfriend.vercel.app
+https://bemyfr1end.vercel.app
 
